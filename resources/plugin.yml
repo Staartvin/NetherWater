@@ -1,0 +1,18 @@
+name: NetherWater
+version: 1.0
+description: An easy to use plugin to allow water placement in select nether type worlds!
+author: Staartvin
+main: me.staartvin.plugins.netherwater.NetherWater
+api-version: 1.13
+commands:
+  netherwater:
+    description: Main command of NetherWater
+    aliases: [nw]
+    usage: Something went wrong when processing this command.
+permissions:
+  netherwater.toggle:
+    description: Allows players to use toggle whether water is allowed in a world
+    default: op
+  netherwater.reload:
+    description: Allows players to reload the configuration
+    default: op

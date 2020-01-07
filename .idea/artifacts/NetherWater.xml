@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetherWater">
+    <output-path>$PROJECT_DIR$/../../../../Google Drive/Minecraft Bukkit Test Server/plugins</output-path>
+    <root id="archive" name="NetherWater.jar">
+      <element id="module-output" name="NetherWater" />
+    </root>
+  </artifact>
+</component>

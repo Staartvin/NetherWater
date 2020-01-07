@@ -1,0 +1,6 @@
+# NetherWater plugin by Staartvin
+# In this config, there are a few settings.
+# Use the 'allowed worlds' option to indicate what worlds are allowed to place water (if it is a nether world).
+
+allowed worlds:
+  - waterNether
